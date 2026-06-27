@@ -1,4 +1,4 @@
-# SuperStore Performance Dashboard
+# SuperStore Sales Performance Dashboard
 
 ## 📌 Project Overview
 
